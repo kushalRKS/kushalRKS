@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushalRKS
 - 👀 I’m interested in Fullstack, NodeJS, Ract, Anhular, Mongo, NoSQL, SQL, CSS, SASS, SCSS
-- 🌱 I’m currently learning MERN, Next.js
+- 🌱 I’m currently learning Node, Java, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
